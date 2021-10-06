@@ -1,0 +1,644 @@
+Sahne 21
+
+repeat 3:
+    forward()
+    getBone()
+Sahne 22
+
+repeat 6:
+	forward()
+	getBone()
+Sahne 23
+
+repeat 3:
+    forward(3)
+    turn(right)
+getBone()
+Sahne 24
+
+repeat 3:
+    turn(left)
+    forward(4)
+getBone()
+Sahne 25
+
+repeat 5:
+    turn(left)
+    forward()
+    getBone()
+    turn(right)
+    forward()
+    getBone()
+Sahne 26
+
+repeat 3:
+    turn(right)
+    forward(2)
+    getBone()
+    turn(left)
+    forward(2)
+    getBone()
+Sahne 27
+
+repeat 3:
+    forward()
+    forwardUp()
+    getBone()
+    forwardDown()
+Sahne 28
+
+repeat 3:
+    forwardUp()
+    getBone()
+    forwardDown()
+    forwardUp()
+    getBone()
+    turn(left)
+    forwardDown()
+Sahne 29
+
+repeat 3:
+    turn(right)
+    forwardUp(2)
+    getBone()
+    forwardDown(2)
+    forward()
+Sahne 30
+
+repeat 3:
+    turn(left)
+    forwardUp()
+    getBone()
+    forwardDown()
+    turn(right)
+    forward(2)
+    
+    Sahne 31:
+
+repeat 2:
+
+                forward(3)
+
+                getBone()
+
+                turn(back)
+
+                forward(3)
+
+Sahne 32:
+
+repeat 4:
+
+                forward(3)
+
+                getBone()
+
+                turn(back)
+
+                forward(3)
+
+                turn(left)
+
+Sahne 33:
+
+repeat 4:
+
+                forward(1)
+
+                forwardUp(1)
+
+                forwardDown(1)
+
+                forward(1)
+
+                getBone()
+
+                turn(back)
+
+                forward(1)
+
+                forwardUp(1)
+
+                forwardDown(1)
+
+                forward(1)
+
+                turn(right)
+
+Sahne 34:
+
+repeat 2:
+
+                forward(2)
+
+                getBone()
+
+                turn(back)
+
+                forward(2)
+
+                turn(back)
+
+                turtle.forward(4)
+
+Sahne 35:
+
+turtle.turn(left)
+
+turtle.forward(3)
+
+turtle.turn(right)
+
+repeat 4:
+
+                forward(2)
+
+                getBone()
+
+                turn(back)
+
+                forward(2)
+
+                turn(back)
+
+                turtle.forward(2)
+
+Sahne 36:
+
+turtle.forward(2)
+
+turtle.turn(left)
+
+repeat 4:
+
+                forward(2)
+
+                getBone()
+
+                turn(back)
+
+                forward(2)
+
+                turtle.forward(2)
+
+Sahne 37:
+
+repeat 8:
+
+                turtle.forward(2)
+
+                forward(2)
+
+                getBone()
+
+                turn(back)
+
+                forward(4)
+
+                getBone()
+
+                turn(back)
+
+                forward(2)
+
+Sahne 38:
+
+turtle.turn(right)
+
+repeat 3:
+
+                forward()
+
+                turtle.forward(2)
+
+                forward()
+
+                getBone()
+
+                turn(back)
+
+Sahne 39:
+
+turtle.turn(right)
+
+repeat 6:
+
+                forward()
+
+                turtle.forward(2)
+
+                forward(1)
+
+                getBone()
+
+                turn(back)
+
+                forward(2)
+
+                getBone()
+
+                turn(back)
+
+Sahne 40:
+
+repeat 4:
+
+                forward(2)
+
+                turn(left)
+
+                forward(2)
+
+                turn(right)
+
+getBone()
+
+Sahne 41
+
+a=3
+
+forward(a)
+
+getBanana()
+
+Sahne 42
+
+a=3
+
+forward(a)
+
+getBanana()
+
+forward(a)
+
+getBanana()
+
+Sahne 43
+
+a=3
+
+forward(a)
+
+getBanana()
+
+turn(right)
+
+forward(a)
+
+getBanana()
+
+turn(right)
+
+forward(a)
+
+getBanana()
+
+Sahne 44
+
+a=3
+
+forward(a)
+
+getBanana()
+
+turtle.forward(a)
+
+forward(a)
+
+getBanana()
+
+Sahne 45
+
+a=2
+
+forward(2)
+
+getBanana()
+
+turtle.forward(a)
+
+forward(a)
+
+getBanana()
+
+forward(a)
+
+getBanana()
+
+Sahne 46
+
+a=2
+
+forward(1)
+
+forwardUp(a)
+
+forward(1)
+
+forwardDown(2)
+
+forward(2)
+
+getBanana()
+
+Sahne 47
+
+a=2
+
+forward(a)
+
+forwardUp(a)
+
+forward(1)
+
+forwardDown(a)
+
+forward(1)
+
+getBanana()
+
+turn(left)
+
+forward(1)
+
+forwardUp(a)
+
+forward(1)
+
+forwardDown(a)
+
+forward(1)
+
+getBanana()
+
+Sahne 48
+
+a=3
+
+forward(1)
+
+forwardUp(a)
+
+forward(1)
+
+forwardDown(a)
+
+forward(1)
+
+getBanana()
+
+turn(left)
+
+forward(a)
+
+getBanana()
+
+forward(a)
+
+getBanana()
+
+Sahne 49
+
+a=3
+
+forward(1)
+
+forwardUp(a)
+
+forward(1)
+
+forwardDown(a)
+
+getBanana()
+
+turn(right)
+
+forward(1)
+
+forwardUp(a)
+
+forward(1)
+
+forwardDown(a)
+
+getBanana()
+
+Sahne 50
+
+a=2
+
+b=3
+
+forward(a)
+
+forwardUp(a)
+
+turn(right)
+
+forwardDown(a)
+
+forward(a)
+
+getBanana()
+
+forwardUp(b)
+
+turn(right)
+
+forwardDown(b)
+
+forwardUp(b)
+
+turn(right)
+
+forwardDown(b)
+
+turtle.forward(7)
+
+forward(5)
+
+getBanana()
+
+ 
+
+Sahne 51
+
+a=3
+
+repeat 2:
+
+                forward(a)
+
+                getBanana()
+
+Sahne 52
+
+boo()
+
+a=4
+
+repeat 3:
+
+                forward(a)
+
+                getBanana()
+
+                turn(right)
+
+Sahne 53
+
+a=3
+
+turtle.forward(a)
+
+repeat 3:
+
+                forward(a)
+
+                getBanana()
+
+                boo()
+
+Sahne 54
+
+a=5
+
+repeat 3:
+
+                a=a-1
+
+                forward(a)
+
+                getBanana()
+
+Sahne 55
+
+a=0
+
+repeat 3:
+
+                a=a+1
+
+                forward(a)
+
+                turn(right)
+
+                forward(a)
+
+                getBanana()
+
+                turn(left)
+
+Sahne 56
+
+a=3
+
+repeat 3:
+
+                turn(left)
+
+                forward(a)
+
+                turn(right)
+
+                forward(a)
+
+getBone()
+
+Sahne 57
+
+a=7
+
+repeat 2:
+
+                forward(2)
+
+                turn(right)
+
+                forward(a)
+
+                turn(left)
+
+                forward(2)
+
+                turn(left)
+
+                forward(a)
+
+                turn(right)
+
+getBone()
+
+Sahne 58
+
+a=2
+
+repeat 3:
+
+                forward(a)
+
+                turn(left)
+
+                forward()
+
+                getBone()
+
+                forward(a)
+
+                getBone()
+
+                turn(right)
+
+Sahne 59
+
+a=3
+
+turn(back)
+
+forward(a)
+
+turn(right)
+
+repeat 3:
+
+                forward(a)
+
+                getBone()
+
+                turn(right)
+
+                forward(a)
+
+                getBone()
+
+                turn(left)
+
+Sahne 60
+
+a=2
+
+repeat 4:
+
+                turn(left)
+
+                forward()
+
+                turn(right)
+
+                forward(a)
+
+                getBone()
+
+turn(left)
+
+forward(a)
+
+turn(left)
+
+repeat 2:
+
+                forward(4)
+
+                getBone()
+
+ 
